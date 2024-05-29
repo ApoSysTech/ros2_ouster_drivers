@@ -1,0 +1,2 @@
+[submodule "."]
+	url = https://github.com/ApoSysTech/ros2_ouster_drivers
